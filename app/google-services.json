@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "962626584677",
+    "firebase_url": "https://training-exercise1.firebaseio.com",
+    "project_id": "training-exercise1",
+    "storage_bucket": "training-exercise1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962626584677:android:adb8d7fe2368faf79d468c",
+        "android_client_info": {
+          "package_name": "com.example.android.eggtimernotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962626584677-7klu6ptaqkc8h3amv42uhdch5e0l2qur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArjigIB0d2hFDGAZGHMkudBtvoLCgp0iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962626584677-7klu6ptaqkc8h3amv42uhdch5e0l2qur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
